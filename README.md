@@ -6,11 +6,11 @@ The game has two levels, easy and hard.
 easy level has three choices and hard level has six.
 Game will stop if the player clicked the correct color.
 
-<img src="images/colorgame1.png" width="200">
+<img src="images/colorgame1.png" width="500">
 
-<img src="images/colorgame2.png">
+<img src="images/colorgame2.png" width="500">
 
-<img src="images/colorgame3.png">
+<img src="images/colorgame3.png" width="500">
 
 
 
